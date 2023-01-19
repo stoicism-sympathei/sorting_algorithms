@@ -2,7 +2,7 @@
 
 <p align="center">
 
-   <img src="Almost.jpg" width="400\"/>
+   <img src="sorting_algorithms.png" width="400\"/>
 
    <br>
 
