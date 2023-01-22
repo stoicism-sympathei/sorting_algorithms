@@ -8,6 +8,12 @@
 
   <h1><p align="center"> Sorting Algorithms & Big O  </h1></p></font>
 
+## Helper Files :raised_hands:
+
+* [print_array.c](./print_array.c): C function that prints an array of integers. 
+* [print_list.c](./print_list.c): C function that prints a `listint_t` doubly-linked list. 
+
+
  * [sort.h](./sort.h): Header file containing definitions and prototypes for all types and functions written for the project.
 
 
